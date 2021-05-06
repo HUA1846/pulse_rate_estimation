@@ -1,4 +1,4 @@
-# Pulse Rate Estimation on Wearable Device
+# Pulse Rate Estimation on Wrist Wearable Device
 
 **Introduction:**
 
